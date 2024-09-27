@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/1homoverk-1sprint/static/css/main.073c9b0a.css",
-    "main.js": "/1homoverk-1sprint/static/js/main.059d638b.js",
+    "main.js": "/1homoverk-1sprint/static/js/main.b272a958.js",
     "static/js/787.177e23c2.chunk.js": "/1homoverk-1sprint/static/js/787.177e23c2.chunk.js",
     "index.html": "/1homoverk-1sprint/index.html",
     "main.073c9b0a.css.map": "/1homoverk-1sprint/static/css/main.073c9b0a.css.map",
-    "main.059d638b.js.map": "/1homoverk-1sprint/static/js/main.059d638b.js.map",
+    "main.b272a958.js.map": "/1homoverk-1sprint/static/js/main.b272a958.js.map",
     "787.177e23c2.chunk.js.map": "/1homoverk-1sprint/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.059d638b.js"
+    "static/js/main.b272a958.js"
   ]
 }
